@@ -1,0 +1,22 @@
+# build目录（最重要）
+build/
+cmake-build-*/
+
+# 编译产物
+*.o
+*.so
+*.a
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+
+# vscode
+.vscode/
+
+# 系统文件
+.DS_Store
+#初始化文件
+input/
