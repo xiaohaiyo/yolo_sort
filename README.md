@@ -1,7 +1,19 @@
 # 多源融合实时目标检测与跟踪系统
 
 基于 YOLOv8 + DeepSORT 的双目（可见光 + 红外）实时目标检测与多目标跟踪系统，运行于 NVIDIA Jetson Orin 平台。
+<table>
+<tr>
 
+<td>
+<video src="https://github.com/xiaohaiyo/yolo_sort/issues/1#issue-4467128012" width="480" controls></video>
+</td>
+
+<td>
+<video src="docs/videos/ir.mp4" width="480" controls></video>
+</td>
+
+</tr>
+</table>
 ## 系统架构
 
 ![System Architecture](doc/images/1.png)
