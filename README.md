@@ -5,7 +5,7 @@
 <tr>
 
 <td>
-<video src="https://github.com/xiaohaiyo/yolo_sort/issues/1#issue-4467128012" width="480" controls></video>
+<video src="https://github.com/user-attachments/assets/149ed834-adc9-4bbe-898c-ab25db7bd8b0" width="480" controls></video>
 </td>
 
 <td>
