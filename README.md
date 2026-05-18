@@ -9,11 +9,12 @@
 </td>
 
 <td>
-<video src="docs/videos/ir.mp4" width="480" controls></video>
+<video src="https://github.com/user-attachments/assets/0f819431-da14-49d7-b0cc-e9816d60808a" width="480" controls></video>
 </td>
 
 </tr>
 </table>
+
 ## 系统架构
 
 ![System Architecture](doc/images/1.png)
